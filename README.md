@@ -1,3 +1,13 @@
+**TITLE: Matrix Arithmetic Calculator Version 2**
+
+
+1. With this update, many new opeartions can be performed.
+2. It can now calculate determinant.
+3. Can also find minors and cofactors.
+4. Most importanly, it can also calaculate inverse of a matrix.
+5. All results are displayed in the formatted manner.
+
+
 **TITLE: Matrix Arithmetic Calculator**
 
 
